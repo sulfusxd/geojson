@@ -6,7 +6,7 @@
       "properties": {
         "id": 1,
         "name": "ANCASH",
-        "country": "Perú"
+        "country": "PERU"
       },
       "geometry": {
         "type": "Polygon",
@@ -38,7 +38,7 @@
       "properties": {
         "id": 2,
         "name": "LIMA ESTE",
-        "country": "Perú"
+        "country": "PERU"
       },
       "geometry": {
         "type": "Polygon",
@@ -76,7 +76,7 @@
       "properties": {
         "id": 3,
         "name": "LIMA NORTE",
-        "country": "Perú"
+        "country": "PERU"
       },
       "geometry": {
         "type": "Polygon",
@@ -656,6 +656,7 @@
     }
   ]
 }
+
 
 
                 
