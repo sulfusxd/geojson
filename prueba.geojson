@@ -6,7 +6,9 @@
       "properties": {
         "id": 1,
         "name": "ANCASH",
-        "country": "PERU"
+        "country": "PERU",
+"latitude": -9.35,
+        "longitude": -77.65
       },
       "geometry": {
         "type": "Polygon",
@@ -660,3 +662,4 @@
 
 
                 
+
