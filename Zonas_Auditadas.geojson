@@ -3316,7 +3316,7 @@
       "type": "Feature",
       "properties": {
         "id": 30,
-        "name": " CHORRILLOS",
+        "name": "CHORRILLOS",
         "country": "PERU",
         "latitude": -12.187078,
         "longitude": -77.008800
@@ -4391,6 +4391,7 @@
     
   ]
 }
+
 
 
                 
