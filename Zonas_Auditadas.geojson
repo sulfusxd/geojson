@@ -4394,8 +4394,8 @@
         "id": 41,
         "name": "CERRO COLORADO",
         "country": "PERU",
-        "latitude": -71.588707,
-        "longitude": -16.341460,
+        "latitude": -16.341460,
+        "longitude": -71.588707,
       },
       "geometry": {
         "type": "Polygon",
